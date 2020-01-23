@@ -1,9 +1,4 @@
 
-// John Korecki
-// Digital Image Processing Assignment 4
-// Code adapted from Assignments 1, 2, 3 and provided framework
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
